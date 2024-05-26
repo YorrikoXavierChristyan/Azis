@@ -33,7 +33,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Selamat Ulang Tahun, Kakak!</h1>
+        <h1>Selamat Ulang Tahun, Kakak Cantik!</h1>
         <p>Hari ini adalah hari yang spesial karena kita merayakan ulang tahunmu yang ke-23. Semoga semua impian dan harapanmu tercapai. Terima kasih telah menjadi kakak yang selalu mendukung dan menginspirasi. Kamu adalah contoh yang luar biasa dalam hidupku.</p>
         <p>Semoga tahun ini membawa banyak kebahagiaan, kesehatan, dan kesuksesan. Tetaplah menjadi pribadi yang kuat dan penuh kasih seperti yang selama ini aku kenal. Aku sangat bersyukur memiliki kakak sepertimu.</p>
         <p>Selamat merayakan hari istimewamu!</p>
